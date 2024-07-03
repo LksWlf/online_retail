@@ -1,6 +1,6 @@
 # RFM Customer Segmentation for Online Retail Dataset
 
-## Problem Description
+## Introduction and Problem Description
 Understanding customer behavior is crucial for developing effective marketing strategies as well as steering and developing companies products. One powerful method to gain insights into customer value and loyalty is through **RFM analysis**. RFM stands for Recency, Frequency and Monetary value, which are three key dimensions used to evaluate and segment customers based on their purchasing behavior and activities.
 
 1. **Recency (R)**: How recently a customer has made a purchase.
